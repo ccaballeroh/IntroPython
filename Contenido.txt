@@ -1,12 +1,12 @@
 * Software libre
 * Licencias (MIT, Apache, GNU)
-* git / GitHub
-* La terminal
 * Linux (GNU/Linux, distros)
+* La terminal
+* git / GitHub
 * Máquinas virtuales
 * Python
-* Ipython + matplotlib + numpy
 * Anaconda
+* Ipython + matplotlib + numpy
 * rst sphinx
 * pandoc
 * LaTeX, beamer, node.js
