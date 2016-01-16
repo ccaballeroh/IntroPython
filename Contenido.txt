@@ -1,0 +1,17 @@
+* Software libre
+* Licencias (MIT, Apache, GNU)
+* git / GitHub
+* La terminal
+* Linux (GNU/Linux, distros)
+* Máquinas virtuales
+* Python
+* Ipython + matplotlib + numpy
+* Anaconda
+* rst sphinx
+* pandoc
+* LaTeX, beamer, node.js
+* Jupyter
+* Julia
+* Octave
+* makefiles
+* Fortran
