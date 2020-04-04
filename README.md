@@ -42,7 +42,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Entrada del usuario
 	* IDLE
 	* [Quiz](./md/Quiz03.md)
-	* [Ejercicos](./md/Ejercicios03.md)
+	* [Ejercicios](./md/Ejercicios03.md)
 	
 4. Ejecución condicional
 	* Expresiones lógicas
@@ -55,43 +55,43 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Excepciones, `try`-`except`
 	* `assert`
 	* [Quiz](./md/Quiz04.md)
-	* [Ejercicos](./md/Ejercicios04.md)
+	* [Ejercicios](./md/Ejercicios04.md)
 
 ----
 *De aquí en adelante es contenido planeado aún*
 ===
 
-5. Ciclos (loops)
+5. Ciclos (*loops*)
 	* Iteraciones
-	* while
-	* break
-	* continue
-	* variables de bandera
+	* `while`
+	* `break`
+	* `continue`
+	* Variables de bandera
 	
 6. Funciones
-	* definición de funciones
-	* parámetros posicionales
-	* parámetros de *keywords*
-	* parámetros por defecto
-	* revisar función `print`
+	* Definición de funciones
+	* Parámetros posicionales
+	* Parámetros de *keywords*
+	* Parámetros por defecto
+	* Revisar función `print`
 	
 7. Clases
 	* Conceptos básicos de POO
 	* Propiedades
 	* Métodos
 	* Notación punto
-	* Revisit integers, floats
-	* Revisit strings (sus métodos)
-	* format strings
+	* *Integers, floats revisited*
+	* *strings* (sus métodos) *revisited*
+	* *format strings*
 	
 8. Listas
 	* Métodos
-	* a = [1, 2, 3]; b = a; b.append(4); print(a); print(b)
-	* indexing
-	* slices
-	* Revisit strings (indexing, slices)
-	* concepto de mutabilidad
-	* For loops
+	* `a = [1, 2, 3]; b = a; b.append(4); print(a); print(b)`
+	* *Indizado*
+	* *Slices*
+	* *strings (indexing, slices) revisited*
+	* Concepto de mutabilidad
+	* *For loops*
 		- `range`
 		- `enumerate`
 		- `else:`
@@ -99,21 +99,22 @@ Este repositorio contiene material de un curso introductorio a la programación 
 		- `continue`
 		
 9. Módulos
-	* qué son
-	* cómo escribir los propios
-	* if __name__ == "__main__"
-	* PYTHONPATH
+	* ¿Qué son?
+	* ¿Cómo escribir los propios?
+	* `if __name__ == "__main__"`
+	* `PYTHONPATH`
 
-10. Trabajar con archivos
-	* f = open()
-	* f.close()
-	* context managers
+10. Archivos
+	* `f = open()`
+	* `f.close()`
+	* *context managers*
 	* Módulo CSV
 
 11. Tuplas
-	* indexing
-	* mutabilidad de nuevo	
-	* unpacking
-
+	* *Indexing*
+	* Mutabilidad de nuevo	
+	* *unpacking*
+	
 12. Diccionarios
+
 13. Conjuntos
