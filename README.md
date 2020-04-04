@@ -1,7 +1,6 @@
 # Introducción a la programación con Python
 
-Material de un curso introductorio a la programación en Python. El curso está en marcha y los materiales se van actualizando
-y redactando sobre la marcha.
+Este repositorio contiene material de un curso introductorio a la programación en Python. El curso está en marcha actualmente y los materiales se van actualizando conforme avanza el curso.
 
 ## Contenido
 
