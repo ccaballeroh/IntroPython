@@ -13,7 +13,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* ¿Por qué no Python?
 	* Documentación
 	* Python Enhancement Proposal
-		* PEP8
+	* PEP 8
 	* Arquitectura de una computadora
 	* Sistemas de numeración
 	* Consola de Python
@@ -32,6 +32,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Windows PowerShell
 	* Instalar Anaconda
 	* Primer *script*
+	* [Quiz](./md/Quiz02.md)
 
 3. Cómputo con Python
 	* Valores, variables, expresiones e instrucciones
@@ -40,6 +41,8 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Operaciones con cadenas
 	* Entrada del usuario
 	* IDLE
+	* [Quiz](./md/Quiz03.md)
+	* [Ejercicos./md/Ejercicios03.md]
 	
 4. Ejecución condicional
 	* Expresiones lógicas
@@ -51,6 +54,8 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* `if`-`elif`-`else`
 	* Excepciones, `try`-`except`
 	* `assert`
+	* [Quiz](./md/Quiz04.md)
+	* [Ejercicos./md/Ejercicios04.md]
 
 ----
 *De aquí en adelante es contenido planeado aún*
