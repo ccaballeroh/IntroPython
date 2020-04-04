@@ -1,4 +1,4 @@
-# Quiz 5: 
+# Quiz : 
 
 1. Asumiendo que las variables fueron nombradas siguiendo la convención, ¿qué tipo crees
 que sea?

@@ -35,12 +35,11 @@ imprimiendo un mensaje y saliendo del programa. Por ejemplo:
 1. Escribe un programa que le pida al usuario su peso ($W$) en `kg` y su altura ($H$) en `m` y que imprima al usuario su IMC (índice de masa corporal) junto con la categoría
 (bajo de peso, normal, sobrepeso, obesidad) guiándote con la siguiente tabla. ($IMC = \frac{W}{H^2}$).
 
-|              **IMC**               | **Categoría** | 
-|:-----------------------------------|:--------------|
-| menor a 18.5                       | Bajo de peso  |
-| mayor o igual a 18.5 y menor a 25  |    Normal     |
-| mayor o igual a  25 y menor a 30   |   Sobrepeso   |
-| mayor o igual 30                   |   Obesidad    |
-
+	|              **IMC**               | **Categoría** | 
+	|:-----------------------------------|:--------------|
+	| menor a 18.5                       | Bajo de peso  |
+	| mayor o igual a 18.5 y menor a 25  |    Normal     |
+	| mayor o igual a  25 y menor a 30   |   Sobrepeso   |
+	| mayor o igual 30                   |   Obesidad    |
 
 1. Modifica tu programa anterior usando `assert` para que el programa garantice que el peso es mayor a 2 kg y menor a 500 kg y que la altura es mayor a medio metro y menor a 2.5 metros.
