@@ -13,7 +13,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* ¿Por qué no Python?
 	* Documentación
 	* Python Enhancement Proposal
-		- PEP8
+		* PEP8
 	* Arquitectura de una computadora
 	* Sistemas de numeración
 	* Consola de Python
@@ -24,6 +24,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Bibiotecas de terceros
 	* PIP
 	* Anaconda
+	* [Quiz](./md/Quiz01.md)
 	
 2. Instalación
 	* Variables de entorno
