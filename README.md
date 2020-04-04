@@ -50,7 +50,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Operadores lógicos
 	* Ejecución condicional
 	* `if`
-	* `ìf`- `else`
+	* `if`- `else`
 	* `if`-`elif`-`else`
 	* Excepciones, `try`-`except`
 	* `assert`
