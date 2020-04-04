@@ -42,7 +42,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Entrada del usuario
 	* IDLE
 	* [Quiz](./md/Quiz03.md)
-	* [Ejercicos./md/Ejercicios03.md]
+	* [Ejercicos](./md/Ejercicios03.md)
 	
 4. Ejecución condicional
 	* Expresiones lógicas
@@ -55,7 +55,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Excepciones, `try`-`except`
 	* `assert`
 	* [Quiz](./md/Quiz04.md)
-	* [Ejercicos./md/Ejercicios04.md]
+	* [Ejercicos](./md/Ejercicios04.md)
 
 ----
 *De aquí en adelante es contenido planeado aún*
