@@ -1,32 +1,34 @@
-1. Introducción a la programación en Python
-	* ¿Por qué aprender a programar?
+# Contenido
+
+1. IntroducciÃ³n a la programaciÃ³n en Python
+	* Â¿Por quÃ© aprender a programar?
 	* *Open Source*
 	* Licencias de *software*
-	* ¿Por qué Python?
+	* Â¿Por quÃ© Python?
 	* Guido van Rossum
-	* ¿Por qué no Python?
-	* Documentación
+	* Â¿Por quÃ© no Python?
+	* DocumentaciÃ³n
 	* Python Enhancement Proposal
 		* PEP8
 	* Arquitectura de una computadora
-	* Sistemas de numeración
+	* Sistemas de numeraciÃ³n
 	* Consola de Python
-	* Variables, asignación y tipos básicos
+	* Variables, asignaciÃ³n y tipos bÃ¡sicos
 	* Python como calculadora
 	* "Pilas incluidas"
-	* Biblioteca estándar
+	* Biblioteca estÃ¡ndar
 	* Bibiotecas de terceros
 	* PIP
 	* Anaconda
 	
-2. Instalación
+2. InstalaciÃ³n
 	* Variables de entorno
-	* Línea de comando
+	* LÃ­nea de comando
 	* Windows PowerShell
 	* Instalar Anaconda
 	* Primer *script*
 
-3. Cómputo con Python
+3. CÃ³mputo con Python
 	* Valores, variables, expresiones e instrucciones
 	* Lenguajes formales y naturales
 	* Vocabulario de Python
@@ -34,13 +36,13 @@
 	* Entrada del usuario
 	* IDLE
 	
-4. Ejecución condicional
-	* Expresiones lógicas
-	* Operadores de comparación
-	* Operadores lógicos
-	* Ejecución condicional
+4. EjecuciÃ³n condicional
+	* Expresiones lÃ³gicas
+	* Operadores de comparaciÃ³n
+	* Operadores lÃ³gicos
+	* EjecuciÃ³n condicional
 	* `if`
-	* `ìf`- `else`
+	* `Ã¬f`- `else`
 	* `if`-`elif`-`else`
 	* Excepciones, `try`-`except`
 	* `assert`
@@ -53,23 +55,23 @@
 	* variables de bandera
 	
 6. Funciones
-	* definición de funciones
-	* parámetros posicionales
-	* parámetros de *keywords*
-	* parámetros por defecto
-	* revisar función `print`
+	* definiciÃ³n de funciones
+	* parÃ¡metros posicionales
+	* parÃ¡metros de *keywords*
+	* parÃ¡metros por defecto
+	* revisar funciÃ³n `print`
 	
 7. Clases
-	* Conceptos básicos de POO
+	* Conceptos bÃ¡sicos de POO
 	* Propiedades
-	* Métodos
-	* Notación punto
+	* MÃ©todos
+	* NotaciÃ³n punto
 	* Revisit integers, floats
-	* Revisit strings (sus métodos)
+	* Revisit strings (sus mÃ©todos)
 	* format strings
 	
 8. Listas
-	* Métodos
+	* MÃ©todos
 	* a = [1, 2, 3]; b = a; b.append(4); print(a); print(b)
 	* indexing
 	* slices
@@ -82,9 +84,9 @@
 		- `break`
 		- `continue`
 		
-9. Módulos
-	* qué son
-	* cómo escribir los propios
+9. MÃ³dulos
+	* quÃ© son
+	* cÃ³mo escribir los propios
 	* if __name__ == "__main__"
 	* PYTHONPATH
 
@@ -92,7 +94,7 @@
 	* f = open()
 	* f.close()
 	* context managers
-	* Módulo CSV
+	* MÃ³dulo CSV
 
 11. Tuplas
 	* indexing
