@@ -59,7 +59,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 
 ----
 *De aquí en adelante es contenido planeado aún*
-===
+---
 
 5. Ciclos (*loops*)
 	* Iteraciones
