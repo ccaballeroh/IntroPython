@@ -6,7 +6,7 @@
 * Máquinas virtuales
 * Python
 * Anaconda
-* Ipython + matplotlib + numpy
+* IPython + matplotlib + numpy
 * rst sphinx
 * pandoc
 * LaTeX, beamer, node.js

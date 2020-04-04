@@ -1,0 +1,14 @@
+- Python
+	- Guido van Rossum
+	- Arquitectura
+		- PIP, PEP, 
+- OpenSource
+	- GNU/Linux
+	- Licencias
+
+- Git/GitHub
+	- Linus Torvalds
+
+- CLI
+	- Shell /CMD
+	- PowerShell
