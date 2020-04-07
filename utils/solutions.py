@@ -30,6 +30,6 @@ if __name__ == "__main__":
                 content: str = read_script(filename=script)
                 write_md(filename=script, content=content)
                 print(f"{script} converted")
-        input()
     except AssertionError as e:
         print(e)
+    input()
