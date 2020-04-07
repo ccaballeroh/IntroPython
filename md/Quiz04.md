@@ -27,7 +27,7 @@
 1. ¿Por qué es importante la indentación en Python?
 
 
-1. ¿Qué se recomienda usar para marcar la indentación? ¿Espacios, tabuladores, una mezcla de ellos, o no importa?
+1. ¿Qué se recomienda usar para marcar la indentación? ¿Espacios, tabuladores, una mezcla de ellos o no importa?
 
 
 1. Piensa qué resultado esperarías al ejecutar estas líneas y después inténtalo en la consola del intérprete.
