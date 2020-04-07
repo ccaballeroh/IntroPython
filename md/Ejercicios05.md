@@ -16,6 +16,7 @@ la raíz cuadrada y un primer valor con cuál intentar. Al final debe imprimir e
     > Ingresa un primer valor aproximado: 5
     La solución es: 5.1 su cuadrado es: 26.00999999998
     ```
+    Ver [solución](../solutions/Ejercicios05-01.py)
 
 1. Modifica el programa anterior utilizando las instrucciones `try` y `except` junto con `assert` para **asegurarte** que el número al que se le va a calcular la raíz es positivo (mayor que cero) y que el primer intento no es cero.
 
@@ -29,11 +30,13 @@ la raíz cuadrada y un primer valor con cuál intentar. Al final debe imprimir e
     > Ingresa un primer valor aproximado diferente de cero: 0
     El primer valor aproximado es cero
     ```
+    Ver [solución](../solutions/Ejercicios05-02.py)
 
 
 
 1. Modifica tu programa de IMC `Ejercicios04-05.py` de la sesión anterior para que se ejecute tres veces.
 
+    Ver [solución](../solutions/Ejercicios05-03.py)
 
 1. Modifica tu programa de IMC `Ejercicios04-05.py` de la sesión anterior para que se ejecute hasta que el usuario lo desee. Por ejemplo, que después de imprimir el resultado de IMC y categoría, le pregunte al usuario si desea salir.
 
@@ -44,7 +47,10 @@ la raíz cuadrada y un primer valor con cuál intentar. Al final debe imprimir e
     Normal
     'S' para salir: S
     ```
+    Ver [solución](../solutions/Ejercicios05-04.py)
 
 1. Escribe un pequeño programa que cuente del 1 al 10,
 pero que solo imprima los valores que **no** son múltiplos
-de 2. (Usa el operador módulo y la palabra reservada `continue`)
+de 2. (Usa el operador módulo y la palabra reservada `continue`).
+
+    Ver [solución](../solutions/Ejercicios05-05.py)
