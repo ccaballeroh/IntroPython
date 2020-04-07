@@ -57,17 +57,19 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Quiz](./md/Quiz04.md)
 	* [Ejercicios](./md/Ejercicios04.md)
 
-----
-*De aquí en adelante es contenido planeado aún*
----
-
 5. Ciclos (*loops*)
 	* Iteraciones
 	* `while`
 	* `break`
-	* `continue`
 	* Variables de bandera
+	* `continue`
+	* [Quiz](./md/Quiz05.md)
+	* [Ejercicios](./md/Ejercicios05.md)
 	
+----
+*De aquí en adelante es contenido planeado aún*
+---
+
 6. Funciones
 	* Definición de funciones
 	* Parámetros posicionales
