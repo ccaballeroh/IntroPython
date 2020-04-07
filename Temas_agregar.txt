@@ -1,0 +1,12 @@
+Además de los temas de Python for Everybody:
+	- Módulo Path
+	- Comprensiones
+	- IPython y su historia
+	- Numpy y su historia
+	- SciPy
+	- Pandas y su historia
+	- Matplotlib y su historia
+	- conda
+	- Jupyter
+	- Markdown
+	- git /github
