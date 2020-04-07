@@ -14,7 +14,7 @@
         print(cont)
         cont -= 1
     ```
-    Inténtalo en la consola del intérprete de Python. Corre el bloque de código anterior y después imprime el valor de `cont` (`print(cont)`)
+    Inténtalo en la consola del intérprete de Python. Corre el bloque de código anterior y después imprime el valor de `cont` con `print(cont)`.
 1. ¿Qué es un "ciclo infinito" y cómo podemos salir de él?
 1. ¿Qué es una variable de bandera?
 1. ¿Cuál es el uso de la palabra reservada `continue`?
