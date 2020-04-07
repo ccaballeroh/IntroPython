@@ -24,7 +24,7 @@ def write_md(*, filename: Path, content: str) -> None:
 
 if __name__ == "__main__":
     try:
-        assert Path.cwd().parts[-1], "Must be executed in utils folder"
+        assert Path.cwd().parts[-1] == "utils", "Must be executed in utils folder"
         for script in SOLUTIONS.iterdir():
             if script.suffix == ".py":
                 content: str = read_script(filename=script)
@@ -32,4 +32,4 @@ if __name__ == "__main__":
                 print(f"{script} converted")
         input()
     except AssertionError as e:
-        print(script, e)
+        print(e)
