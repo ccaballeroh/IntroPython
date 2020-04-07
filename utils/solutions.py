@@ -3,7 +3,7 @@ Script to generate Markdown files with solutions
 """
 from pathlib import Path
 
-SOLUTIONS: Path = Path(r"../Solutions/")
+SOLUTIONS: Path = Path(r"../answers/")
 MD: Path = Path(r"../md/")
 
 
@@ -24,6 +24,7 @@ def write_md(*, filename: Path, content: str) -> None:
 
 if __name__ == "__main__":
     try:
+        assert Path.cwd().parts[-1], "Must be executed in utils folder"
         for script in SOLUTIONS.iterdir():
             if script.suffix == ".py":
                 content: str = read_script(filename=script)

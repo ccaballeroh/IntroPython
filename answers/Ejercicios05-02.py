@@ -1,15 +1,15 @@
 """
-Implementa el algoritmo babilónico usando un ciclo while.
-El programa debe pedir al usuario un valor al cual calcular
-la raíz y un primer valor con cuál intentar.
-Al final debe imprimir el resultado junto con su cuadrado.
+Implementa el algoritmo babilónico para calcular raíz cuadrada
+usando un ciclo while. El programa debe pedir al usuario
+un valor al cual calcular la raíz y un primer valor con
+cuál intentar. Al final debe imprimir el resultado
+junto con su cuadrado.
 
-Utiliza instrucciones try y except junto con assert para
+Utiliza instrucciones `try` y `except` junto con `assert` para
 *asegurarte* que el número al que se le va a calcular la
 raíz es positivo (mayor que cero) y que el primer intento
 no es cero. 
 """
-
 
 try:
     num = float(
