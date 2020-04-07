@@ -7,6 +7,7 @@ numero = 0
 
 while numero < 10:
     numero += 1
-    if numero % 2 == 0:
+    if numero % 2 == 0:  # checa si es par
         continue
     print(numero)
+input()

@@ -22,3 +22,5 @@ except AssertionError as e:
 
 except ValueError:
     print("ingresar solamente números")
+
+input()
