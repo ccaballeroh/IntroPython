@@ -87,6 +87,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Jupyter
 	* [Quiz](.md/Quiz07.md)
 	* [Ejercicios](./md/Ejercicios07.md)
+	* [Slides](./html/07.html)
 
 ----
 *De aquí en adelante es contenido planeado aún*
@@ -122,6 +123,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* `PYTHONPATH`
 
 10. Archivos
+	* Módulo `pathlib`
 	* `f = open()`
 	* `f.close()`
 	* *context managers*
