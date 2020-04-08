@@ -76,7 +76,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Quiz](./md/Quiz06.md)
 	* [Ejercicios](./md/Ejercicios06.md)
 
-6. Funciones (segunda parte)
+7. Funciones (segunda parte)
 	* Funciones *built-in*
 	* Parámetros posicionales
 	* Parámetros de *keywords*
@@ -87,7 +87,6 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Jupyter
 	* [Quiz](.md/Quiz07.md)
 	* [Ejercicios](./md/Ejercicios07.md)
-	* [Slides](./html/07.html)
 
 ----
 *De aquí en adelante es contenido planeado aún*
