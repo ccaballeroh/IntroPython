@@ -66,17 +66,29 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Quiz](./md/Quiz05.md)
 	* [Ejercicios](./md/Ejercicios05.md)
 	
-----
-*De aquí en adelante es contenido planeado aún*
----
+6. Funciones
+	* `f-strings`
+	* Reuso de código
+	* Definición de funciones
+	* Argumentos y parámetros
+	* Variables y parámetros son locales
+	* Ventajas
+	* Funciones *built-in*
+	* [Quiz](./md/Quiz06.md)
+	* [Ejercicios](./md/Ejercicios06.md)
 
 6. Funciones
-	* Definición de funciones
 	* Parámetros posicionales
 	* Parámetros de *keywords*
 	* Parámetros por defecto
 	* Revisar función `print`
-	
+	* [Quiz](.md/Quiz06.md)
+	* [Ejercicios](./md/Ejercicios06.md)
+
+----
+*De aquí en adelante es contenido planeado aún*
+---
+
 7. Clases
 	* Conceptos básicos de POO
 	* Propiedades

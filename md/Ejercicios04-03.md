@@ -1,6 +1,6 @@
 ```python
 número_horas = input("Ingresa número de horas: ")
-tarifa = input ("Ingresa tarifa por hora: ")
+tarifa = input("Ingresa tarifa por hora: ")
 try:
     número_horas = float(número_horas)
     tarifa = float(tarifa)
@@ -16,10 +16,8 @@ try:
     else:
         paga_total = número_horas * tarifa
 
-    print("Paga:" , paga_total)
-    input()
-
+    print("Paga:", paga_total)
 except:
     print("Error, ingresa un valor numérico")
-    
+input()
 ```
