@@ -37,3 +37,4 @@ print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {calcular_pag
 num_horas = 43.5
 tarifa_base = 117.80
 print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {calcular_paga(num_horas, tarifa_base)}")
+input()
