@@ -87,6 +87,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Jupyter
 	* [Quiz](.md/Quiz07.md)
 	* [Ejercicios](./md/Ejercicios07.md)
+	* [Slides](./md/07.md)
 
 ----
 *De aquí en adelante es contenido planeado aún*
