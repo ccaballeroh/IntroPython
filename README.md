@@ -66,24 +66,27 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Quiz](./md/Quiz05.md)
 	* [Ejercicios](./md/Ejercicios05.md)
 	
-6. Funciones
+6. Funciones (primera parte)
 	* `f-strings`
 	* Reuso de código
 	* Definición de funciones
 	* Argumentos y parámetros
 	* Variables y parámetros son locales
 	* Ventajas
-	* Funciones *built-in*
 	* [Quiz](./md/Quiz06.md)
 	* [Ejercicios](./md/Ejercicios06.md)
 
-6. Funciones
+6. Funciones (segunda parte)
+	* Funciones *built-in*
 	* Parámetros posicionales
 	* Parámetros de *keywords*
 	* Parámetros por defecto
 	* Revisar función `print`
-	* [Quiz](.md/Quiz06.md)
-	* [Ejercicios](./md/Ejercicios06.md)
+	* IPython
+	* Fernando Pérez
+	* Jupyter
+	* [Quiz](.md/Quiz07.md)
+	* [Ejercicios](./md/Ejercicios07.md)
 
 ----
 *De aquí en adelante es contenido planeado aún*
