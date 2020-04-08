@@ -25,23 +25,18 @@ def calcular_paga(num_horas, tarifa_base):
 # Primer caso
 num_horas = 30.0
 tarifa_base = 247.0
-
-paga_total = calcular_paga(num_horas, tarifa_base)
-print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {paga_total}")
+print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {calcular_paga(num_horas, tarifa_base)}")
 
 # Segundo caso
 
 num_horas = 47.0
 tarifa_base = 311.0
-
-paga_total = calcular_paga(num_horas, tarifa_base)
-print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {paga_total}")
+print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {calcular_paga(num_horas, tarifa_base)}")
 
 # Tercer caso
 
 num_horas = 43.5
 tarifa_base = 117.80
-
-paga_total = calcular_paga(num_horas, tarifa_base)
-print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {paga_total}")
+print(f"El pago por {num_horas} horas a {tarifa_base} por hora es: {calcular_paga(num_horas, tarifa_base)}")
+input()
 ```
