@@ -9,8 +9,8 @@
     >>> print(f"Este es un mensaje:\n\n{3*variable}")
     ```
 1. ¿Cómo darías formato de 3 decimales a un número flotante en una `f-string`?
-1. Asume que `mi_funcion(x, y)` es una función, ¿cómo se nombran `x` y `y`?
 1. ¿Qué es una función?
+1. Asume que `mi_funcion(x, y)` es una función, ¿cómo se nombran `x` y `y`?
 1. Escribe con lápiz y papel la sintaxis para *definir* una función.
 1. ¿Se puede definir una función después de mandarla a llamar en un *script* de Python? ¿Por qué?
 1. ¿Cuál es la diferencia entre argumentos y parámetros?
