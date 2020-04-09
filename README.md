@@ -86,7 +86,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* IPython
 	* Fernando Pérez
 	* Jupyter
-	* [Quiz](.md/Quiz07.md)
+	* [Quiz](./md/Quiz07.md)
 	* [Ejercicios](./md/Ejercicios07.md)
 
 ----
