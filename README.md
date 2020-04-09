@@ -77,6 +77,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Ejercicios](./md/Ejercicios06.md)
 
 7. Funciones (segunda parte)
+	* `docstrings`
 	* Funciones *built-in*
 	* Parámetros posicionales
 	* Parámetros de *keywords*
