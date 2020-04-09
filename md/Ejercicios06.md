@@ -40,7 +40,7 @@
 
     Ver [solución](./Ejercicios06-03.md)
 
-1. Rescribe el ejercicio 05-04 usando dos funciones: una llamada `calcular_IMC` y otra `categoria_IMC`. La primera debe tomar como argumentos el peso en kg y la altura en metros y regresar el IMC. La segunda debe tomar como argumento el IMC y regresar una cadena con la categoría ("bajo de peso", "Normal", "Sobrepeso" y "Obesidad"). Tu programa debe comportarse de la misma forma que el 05-04. En otras palabras, el usuario no se habrá dado cuenta que el código cambió.
+1. Rescribe el ejercicio 05-04 usando dos funciones: una llamada `calcular_IMC` y otra `categoria_IMC`. La primera debe tomar como argumentos el peso en kg y la altura en metros y regresar el IMC. La segunda debe tomar como argumento el IMC y regresar una cadena con la categoría ("Bajo de peso", "Normal", "Sobrepeso" y "Obesidad"). Tu programa debe comportarse de la misma forma que el 05-04. En otras palabras, el usuario no se habrá dado cuenta que el código cambió.
 
     Ver [solución](./Ejercicios06-04.md)
 
