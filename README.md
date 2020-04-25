@@ -110,6 +110,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Herencia
 	* Métodos de clase `str`
 	* función `.format`
+	* Spyder
 	* [Quiz](./md/Quiz10.md)
 	* [Ejercicios](./md/Ejercicios10.md)
 
