@@ -10,3 +10,5 @@ Además de los temas de Python for Everybody:
 	- Jupyter
 	- Markdown
 	- git /github
+	- Spyder
+	- Ambientes virtuales
