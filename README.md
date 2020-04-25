@@ -112,6 +112,7 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* función `.format`
 	* [Quiz](./md/Quiz10.md)
 	* [Ejercicios](./md/Ejercicios10.md)
+	
 ----
 *De aquí en adelante es contenido planeado aún*
 ---
