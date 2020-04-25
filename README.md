@@ -89,20 +89,31 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* [Quiz](./md/Quiz07.md)
 	* [Ejercicios](./md/Ejercicios07.md)
 
+8. Jupyter
+	* `Jupyter console`
+	* `Jupyter qtconsole`
+	* `Jupyter Notebook`
+	* `Jupyter lab`
+	* [Quiz](./md/Quiz08.md)
+	* [Ejercicios](./md/Ejercicios08.md)
+
+
+9. Clases
+	* Conceptos básicos de POO
+	* Sintaxis
+	* Atributos y métodos
+	* Métodos "dunder"
+	* Clases `int` y `float`
+	* Clase `str`
+	* Método `.format`
+	* [Quiz](./md/Quiz09.md)
+	* [Ejercicios](./md/Ejercicios09.md)
+
 ----
 *De aquí en adelante es contenido planeado aún*
 ---
 
-7. Clases
-	* Conceptos básicos de POO
-	* Propiedades
-	* Métodos
-	* Notación punto
-	* *Integers, floats revisited*
-	* *strings* (sus métodos) *revisited*
-	* *format strings*
-	
-8. Listas
+10. Listas
 	* Métodos
 	* `a = [1, 2, 3]; b = a; b.append(4); print(a); print(b)`
 	* *Indizado*
@@ -116,26 +127,26 @@ Este repositorio contiene material de un curso introductorio a la programación 
 		- `break`
 		- `continue`
 		
-9. Módulos
+11. Módulos
 	* ¿Qué son?
 	* ¿Cómo escribir los propios?
 	* `if __name__ == "__main__"`
 	* `PYTHONPATH`
 
-10. Archivos
+12. Archivos
 	* Módulo `pathlib`
 	* `f = open()`
 	* `f.close()`
 	* *context managers*
 	* Módulo CSV
 
-11. Tuplas
+13. Tuplas
 	* *Indexing*
 	* Mutabilidad de nuevo	
 	* *unpacking*
 	
-12. Diccionarios
+14. Diccionarios
 
-13. Conjuntos
+15. Conjuntos
 
-14. Llamar a funciones con argumentos variables (*args, **kwargs)
+16. Llamar a funciones con argumentos variables (*args, **kwargs)

@@ -29,7 +29,7 @@ def calcular_IMC(peso, altura):
     return imc
 
 
-def categoria_IMC(IMC):
+def categoria_IMC(imc):
     """Calcula la categoría de peso dado el IMC.
 
     La categoría se estima por el rango en el que cae
@@ -43,11 +43,11 @@ def categoria_IMC(IMC):
     Regresa:
     categoría: una cadena con la categoría de peso
     """
-    if IMC < 18.5:
+    if imc < 18.5:
         categoria = "Bajo peso"
-    elif IMC >= 18.5 and IMC < 25:
+    elif imc >= 18.5 and imc < 25:
         categoria = "Normal"
-    elif IMC >= 25 and IMC < 30:
+    elif imc >= 25 and imc < 30:
         categoria = "Sobrepeso"
     else:
         categoria = "Obesidad"
@@ -62,10 +62,10 @@ while True:
         h = float(input("> Ingresa altura en m: "))
         assert h > 0.5 and h < 2.5, "Altura fuera de rango"
 
-        IMC = calcular_IMC(w, h)
-        print("IMC: ", IMC)
+        imc = calcular_IMC(w, h)
+        print("IMC: ", imc)
 
-        categoria = categoria_IMC(IMC)
+        categoria = categoria_IMC(imc)
         print(categoria)
 
     except AssertionError as e:

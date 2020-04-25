@@ -1,5 +1,5 @@
 """
-Escribe un programa que le pida contínuamente
+Escribe un programa que le pida continuamente
 al usuario por tres números
 (llamémoslos `x`, `y` y `z`) y despúes
 los imprima en pantalla separados por una coma
