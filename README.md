@@ -103,12 +103,15 @@ Este repositorio contiene material de un curso introductorio a la programación 
 	* Sintaxis
 	* Atributos y métodos
 	* Métodos "dunder"
-	* Clases `int` y `float`
-	* Clase `str`
-	* Método `.format`
 	* [Quiz](./md/Quiz09.md)
 	* [Ejercicios](./md/Ejercicios09.md)
 
+10. Clases (segunda parte)
+	* Herencia
+	* Métodos de clase `str`
+	* función `.format`
+	* [Quiz](./md/Quiz10.md)
+	* [Ejercicios](./md/Ejercicios10.md)
 ----
 *De aquí en adelante es contenido planeado aún*
 ---
