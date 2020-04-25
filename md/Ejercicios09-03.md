@@ -10,10 +10,10 @@ def lanzar_puntos(*, n):
     de círculo unitario.
     
     Entrada
-    n: int número de puntos
+    n: int - número de puntos
     
     Salida
-    dentro: int número de puntos a menos de 1 de distancia
+    dentro: int - número de puntos a menos de 1 de distancia
     """
     contador = 0
     dentro = 0
@@ -26,11 +26,22 @@ def lanzar_puntos(*, n):
 
 
 def aproximar_pi(*, n):
-    """Aproxima pi después de lanzar n puntos en el cuadro unitario."""
+    """Aproxima pi después de lanzar n puntos en el cuadro unitario.
+    
+    Pi es aproximadamente 4 veces la razón de puntos dentro de un cuarto de
+    círculo unitario entre el total de puntos lanzados en un cuadrado unitario.
+    
+    Entrada
+    n: int - número de puntos
+    
+    Salida
+    aproximación de pi
+    """
     return 4 * lanzar_puntos(n=n) / n
 
 
 def correr_experimento(*, veces, n):
+    """Promedio de aproximar_pi `veces` veces con `n` puntos."""
     cont = 0
     acum = 0
     while cont < veces:
