@@ -1,10 +1,13 @@
+"""Gráfica de aproximación de pi con simulación
+monte carlo"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 from math import tau
 
 plt.style.use("dark_background")
 
-theta = np.arange(0, tau / 4, step=0.05)
+theta = np.linspace(0, tau / 4, num=1000)
 circle_x = np.cos(theta)
 circle_y = np.sin(theta)
 
