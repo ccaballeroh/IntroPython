@@ -35,7 +35,7 @@ En tu carpeta `Ejercicios` realiza lo siguiente:
     Ver [solución](./Ejercicios09-02.md)
 
 
-1. Vamos a aproximar el valor de Pi haciendo una simulación Monte Carlo reusando la clase que hiciste en el ejercicio anterior. Ve la [plantilla](./Ejercicios09-03-blank.md) de solución para guiarte.
+1. Vamos a aproximar el valor de Pi haciendo una simulación Monte Carlo reusando la clase que hiciste en el ejercicio anterior. Ve la [plantilla](./Ejercicios09-03-blank.md) de solución para guiarte. [!Esquema](../img/montecarlo.png)
 
     - En un archivo de texto en la misma carpeta, copia y pega el código de tu clase `Punto` y guarda el archivo con el nombre `MisClases.py`.
     
