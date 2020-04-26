@@ -9,11 +9,9 @@ disponible una función llamada `random` que regresa un número en el intervalo 
 
 Define el método `__repr__` de tal forma que tengas una *interfaz* así con el obteto:
 
-```python
 >> p = Punto()
 >> print(p)
 El punto P(0.357,0.942) está a una distancia 1.007791835595025 del origen.
-```
 """
 
 from random import random
