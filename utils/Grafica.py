@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from math import tau
-from MisClases import Punto
-from random import random
 
 plt.style.use("dark_background")
 
@@ -10,14 +8,14 @@ theta = np.arange(0, tau / 4, step=0.05)
 circle_x = np.cos(theta)
 circle_y = np.sin(theta)
 
-n = 500
-x = np.array([random() for _ in range(n)])
-y = np.array([random() for _ in range(n)])
+n = 10_000
+x = np.random.random(n)
+y = np.random.random(n)
 
 fig, ax = plt.subplots(figsize=(10, 10), dpi=128)
 ax.plot(circle_x, circle_y, linewidth=3)
 ax.scatter(
-    x, y, s=15, edgecolors=None, c=(x * x + y * y) / np.sqrt(2), cmap=plt.cm.hot,
+    x, y, s=5, edgecolors=None, c=abs(x + y), cmap=plt.cm.hot,
 )
 ax.set_xlim([-0.01, 1.01])
 ax.set_ylim([-0.01, 1.01])
