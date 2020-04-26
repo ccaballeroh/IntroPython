@@ -35,7 +35,9 @@ En tu carpeta `Ejercicios` realiza lo siguiente:
     Ver [solución](./Ejercicios09-02.md)
 
 
-1. Vamos a aproximar el valor de Pi haciendo una simulación Monte Carlo reusando la clase que hiciste en el ejercicio anterior. Ve la [plantilla](./Ejercicios09-03-blank.md) de solución para guiarte. [!Esquema](../img/montecarlo.png)
+1. Vamos a aproximar el valor de Pi haciendo una simulación Monte Carlo reusando la clase que hiciste en el ejercicio anterior. La idea es dejar "caer" puntos al azar en un cuadrado unitario. La proporción de puntos que caen a menos de 1 del origen con respecto al total de puntos tiende a la razón del área del cuarto de círculo entre el área del cuadrado unitario.
+
+    ![Esquema](../img/montecarlo.png "Montecarlo") Ve la [plantilla](./Ejercicios09-03-blank.md) de solución para guiarte.
 
     - En un archivo de texto en la misma carpeta, copia y pega el código de tu clase `Punto` y guarda el archivo con el nombre `MisClases.py`.
     
