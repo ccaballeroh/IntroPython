@@ -12,7 +12,7 @@ Define el método `__repr__` de tal forma que tengas una *interfaz* así con el 
 
 >> p = Punto()
 >> print(p)
-El punto P(0.357,0.942) está a una distancia 1.007791835595025 del origen.
+El punto P(0.357,0.942) está a una distancia 1.008 del origen.
 """
 
 from random import random
