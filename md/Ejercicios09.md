@@ -54,7 +54,7 @@ En tu carpeta `Ejercicios` realiza lo siguiente:
         80
         ```
 
-    - Define una función `aproximar_pi` que tome también un argumento **por palabra** `n` y regrese una aproximación del valor de pi. Pi es aproximadamente 4 veces el número de puntos con una distancia menor a 1 del origen divido por el número total de puntos en el cuadro unitario.
+    - Define una función `aproximar_pi` que tome también un argumento **por palabra** `n` y regrese una aproximación del valor de pi. Pi es aproximadamente 4 veces el número de puntos con una distancia menor a 1 del origen dividido por el número total de puntos en el cuadro unitario.
 
         ```python
         >> aproximar_pi(n=100)
