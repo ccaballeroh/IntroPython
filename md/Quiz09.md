@@ -12,3 +12,13 @@
 1. ¿Qué método es mandado a llamar al momento de instanciar un objeto?
 1. ¿Qué método es mandado a llamar cuando pasamos un objeto a la función `print`?
 1. ¿Qué es la "notación de punto"?
+1. En el siguiente código, ¿se hace una referencia a un método o a un atributo?
+	
+	```python
+	años = Flynn.edad
+	```
+1. En el siguiente código, ¿se hace referencia a un método o a un atributo?
+
+	```python
+	edad = usuario.cumplir_años()
+	```
